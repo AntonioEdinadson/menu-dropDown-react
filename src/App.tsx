@@ -10,7 +10,7 @@ const App = () => {
         <Navbar />
       </div>
       <div className='w-[calc(100%-300px)] p-5 text-white'>
-        tested
+        <h1>MENU DROPDOWN</h1>
       </div>
     </div>
   )
